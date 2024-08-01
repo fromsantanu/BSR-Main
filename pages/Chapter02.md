@@ -44,7 +44,7 @@ Variance measures how far each number in the dataset is from the mean and thus f
 ### Population Variance
 The variance $` \( \sigma^2 \) `$ of a population is calculated using the formula:
 
-$` \[ \sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 \] `$
+$\[ \sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 \]$
 
 Where:
 - \( N \) is the number of observations in the population

@@ -1,4 +1,4 @@
-# Statistics Topics Commonly Used in Research
+# Statistical Concepts and Techniques Commonly Used in Research
 
 ## 1. Descriptive Statistics
 - **Measures of Central Tendency (Mean, Median and Mode)**

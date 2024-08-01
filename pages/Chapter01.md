@@ -103,6 +103,7 @@ print(paste("The mode is:", mode_value))
 - **Mean**: Best used for data without outliers, providing a general average.
 - **Median**: Ideal for skewed distributions or data with outliers, representing the center point.
 - **Mode**: Useful for categorical data or identifying the most common value in a dataset.
+
 Choosing the appropriate measure of central tendency depends on the nature of the data and the specific analysis objectives. Each measure provides unique insights, and using them in combination can offer a comprehensive understanding of the data distribution.
 
 

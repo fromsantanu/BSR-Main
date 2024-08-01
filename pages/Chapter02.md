@@ -73,6 +73,9 @@ The standard deviation is the square root of the variance, which brings the unit
 ### Formula
 The formula for the standard deviation is:
 
+$\text{Standard Deviation} = \sigma = \sqrt{\frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}}$
+
+
 ### Example in Python
 ```python
 # Import necessary library

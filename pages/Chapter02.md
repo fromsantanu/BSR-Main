@@ -41,26 +41,7 @@ Variance measures how far each number in the dataset is from the mean and thus f
 
 ### Formula
 
-### Population Variance
-The variance $` \( \sigma^2 \) `$ of a population is calculated using the formula:
-
-$\[ \sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 \]$
-
-Where:
-- \( N \) is the number of observations in the population
-- \( x_i \) is each individual observation
-- \( \mu \) is the population mean
-
-### Sample Variance
-The variance \( s^2 \) of a sample is calculated using the formula:
-
-\[ s^2 = \frac{1}{n-1} \sum_{i=1}^{n} (x_i - \bar{x})^2 \]
-
-Where:
-- \( n \) is the number of observations in the sample
-- \( x_i \) is each individual observation
-- \( \bar{x} \) is the sample mean
-
+$\text{Variance} = \sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \mu)^2}{n}$
 
 
 ### Example in Python

@@ -16,11 +16,11 @@ The mean is calculated by summing all the values in a dataset and then dividing 
 
 ### Formula
 
-```math
+$$
 \[ \text{Mean} = \frac{\sum_{i=1}^{n} x_i}{n} \]
 
 where \( x_i \) represents each value in the dataset and \( n \) is the number of values.
-```
+$$
 
 
 ### Example in Python

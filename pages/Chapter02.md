@@ -15,7 +15,7 @@ The range is the simplest measure of variability, calculated as the difference b
 ### Formula
 
 The formula for the range is:
-$$ \text{Range} = x_{\text{max}} - x_{\text{min}} $$
+$\ \text{Range} = x_{\text{max}} - x_{\text{min}} \$
 
 ### Example in Python
 ```python

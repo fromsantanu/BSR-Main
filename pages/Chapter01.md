@@ -20,6 +20,7 @@ The mean is calculated by summing all the values in a dataset and then dividing 
 
 where \( x_i \) represents each value in the dataset and \( n \) is the number of values.
 
+
 ### Example in Python
 ```python
 # Import necessary library

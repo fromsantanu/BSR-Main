@@ -1,8 +1,8 @@
 # Statistical Concepts and Techniques Commonly Used in Research
 
 ## 1. Descriptive Statistics
-- [**Measures of Central Tendency (Mean, Median and Mode)**](#)
-- [**Measures of Variability (Range, Variance, Standard Deviation)**](#)  
+- [**Measures of Central Tendency (Mean, Median and Mode)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter01.md)
+- [**Measures of Variability (Range, Variance, Standard Deviation)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter02.md)  
 - [**Distribution Shapes (Skewness, Kurtosis)**](#) 
 - [**Percentiles and Quartiles**](#)
 

@@ -1,5 +1,4 @@
-# Statistical Concepts and Techniques Commonly Used in Research
-
+# Statistical Concepts and Techniques ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 ## 1. Descriptive Statistics
 - [**Measures of Central Tendency (Mean, Median and Mode)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter01.md)
 - [**Measures of Variability (Range, Variance, Standard Deviation)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter02.md)  

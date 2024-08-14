@@ -18,13 +18,13 @@ Skewness quantifies the degree of asymmetry of a distribution around its mean. I
 ### Formula
 
 The formula for skewness is:
-$$ \text{Skewness} = \frac{n}{(n-1)(n-2)} \sum_{i=1}^{n} \left(\frac{x_i - \mu}{\sigma}\right)^3 $$
+$\text{Skewness} = \frac{n}{(n-1)(n-2)} \sum_{i=1}^{n} \left(\frac{x_i - \mu}{\sigma}\right)^3$
 
 where:
-- \( n \) is the number of observations,
-- \( x_i \) is each individual observation,
-- \( \mu \) is the mean of the observations,
-- \( \sigma \) is the standard deviation of the observations.
+- $n$ is the number of observations,
+- $x_i$ is each individual observation,
+- $\mu$ is the mean of the observations,
+- $\sigma$ is the standard deviation of the observations.
 
 ### Example in Python
 
@@ -66,13 +66,13 @@ Kurtosis quantifies the tails of the distribution compared to the normal distrib
 ### Formula
 
 The formula for kurtosis is:
-$$ \text{Kurtosis} = \frac{n(n+1)}{(n-1)(n-2)(n-3)} \sum_{i=1}^{n} \left(\frac{x_i - \mu}{\sigma}\right)^4 - \frac{3(n-1)^2}{(n-2)(n-3)} $$
+$\text{Kurtosis} = \frac{n(n+1)}{(n-1)(n-2)(n-3)} \sum_{i=1}^{n} \left(\frac{x_i - \mu}{\sigma}\right)^4 - \frac{3(n-1)^2}{(n-2)(n-3)}$
 
 where:
-- \( n \) is the number of observations,
-- \( x_i \) is each individual observation,
-- \( \mu \) is the mean of the observations,
-- \( \sigma \) is the standard deviation of the observations.
+- $n$ is the number of observations,
+- $x_i$ is each individual observation,
+- $\mu$ is the mean of the observations,
+- $\sigma$ is the standard deviation of the observations.
 
 ### Example in Python
 

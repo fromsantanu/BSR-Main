@@ -139,8 +139,8 @@ ggplot(data, aes(x=X, y=Y)) +
 
 ### Model Parameters
 
-- **Intercept (\(\beta_0\))**: The intercept represents the predicted value of the dependent variable \(Y\) when the independent variable \(X\) is zero.
-- **Coefficients (\(\beta_1, \beta_2\))**: The coefficients represent the change in the dependent variable \(Y\) for a one-unit change in the corresponding power of the independent variable \(X\). In the context of the example, \(\beta_1\) is the coefficient for \(X\), and \(\beta_2\) is the coefficient for \(X^2\).
+- **Intercept ($\beta_0$)**: The intercept represents the predicted value of the dependent variable \(Y\) when the independent variable \(X\) is zero.
+- **Coefficients ($\beta_1, \beta_2$)**: The coefficients represent the change in the dependent variable \(Y\) for a one-unit change in the corresponding power of the independent variable $X$. In the context of the example, \(\beta_1\) is the coefficient for \(X\), and \(\beta_2\) is the coefficient for \(X^2\).
 
 ### Model Evaluation
 

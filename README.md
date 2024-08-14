@@ -2,7 +2,7 @@
 ## 1. Descriptive Statistics
 - [**Measures of Central Tendency (Mean, Median and Mode)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter01.md)
 - [**Measures of Variability (Range, Variance, Standard Deviation)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter02.md)  
-- [**Distribution Shapes (Skewness, Kurtosis)**](#) 
+- [**Distribution Shapes (Skewness, Kurtosis)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter03.md)   
 - [**Percentiles and Quartiles**](#)
 
 ## 2. Data Visualization

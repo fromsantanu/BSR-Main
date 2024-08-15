@@ -60,7 +60,7 @@
 - [**Principal Component Analysis (PCA)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter40.md)
 - [**Factor Analysis**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter41.md)
 - [**Cluster Analysis**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter42.md)
-- [**Discriminant Analysis**]([#)](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter43.md))
+- [**Discriminant Analysis**]([#)](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter43.md)
 
 ## 11. Bayesian Statistics
 - [**Bayes' Theorem**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter44.md)

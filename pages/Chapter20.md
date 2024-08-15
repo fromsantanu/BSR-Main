@@ -4,7 +4,7 @@
 
 Pearson correlation is a statistical measure that quantifies the linear relationship between two continuous variables. It is a widely used method to assess the strength and direction of the linear association between two variables. The Pearson correlation coefficient, denoted as \( r \), ranges from -1 to 1, where:
 
-- $ r = 1 $ indicates a perfect positive linear relationship.
+- $r = 1$ indicates a perfect positive linear relationship.
 - \( r = -1 \) indicates a perfect negative linear relationship.
 - \( r = 0 \) indicates no linear relationship.
 

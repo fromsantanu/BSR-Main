@@ -11,7 +11,7 @@ The Kaplan-Meier estimator is a non-parametric statistic used to estimate the su
 
 2. **Censoring**: In survival analysis, censoring occurs when the exact time of the event is not observed for some individuals. The most common type is right-censoring, where the event has not occurred by the end of the study period.
 
-3. **Kaplan-Meier Estimator**: The Kaplan-Meier estimator provides an estimate of the survival function $S(t) $ based on the observed data. The estimator is defined as:
+3. **Kaplan-Meier Estimator**: The Kaplan-Meier estimator provides an estimate of the survival function $S(t)$ based on the observed data. The estimator is defined as:
 
    $\hat{S}(t) = \prod_{t_i \leq t} \left(1 - \frac{d_i}{n_i}\right)$
 

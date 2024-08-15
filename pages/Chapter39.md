@@ -61,7 +61,7 @@ print(life_table)
 ### Explanation
 
 - **Sample Data**: We use hypothetical mortality rates for different age intervals.
-- **Life Table Calculation**: We calculate the survival probability (\(p_x\)), number of survivors (\(l_x\)), number of deaths (\(d_x\)), and life expectancy (\(e_x\)) for each age interval.
+- **Life Table Calculation**: We calculate the survival probability ($p_x$), number of survivors ($l_x$), number of deaths ($d_x$), and life expectancy ($e_x$) for each age interval.
 - **Output**: The life table is displayed, showing the calculated values for each age interval.
 
 ## Example in R

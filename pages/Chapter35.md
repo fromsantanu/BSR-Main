@@ -69,7 +69,7 @@ plt.show()
 ### Explanation
 
 - **Sample Data**: We generate a time series with a sine wave pattern and some noise.
-- **Simple Exponential Smoothing**: We apply simple exponential smoothing using `SimpleExpSmoothing` from `statsmodels` with a smoothing parameter (\(\alpha\)) of 0.2.
+- **Simple Exponential Smoothing**: We apply simple exponential smoothing using `SimpleExpSmoothing` from `statsmodels` with a smoothing parameter ($\alpha$) of 0.2.
 - **Plotting**: The original data and the smoothed series are plotted to show the effect of exponential smoothing.
 
 ## Example in R
@@ -106,15 +106,15 @@ autoplot(ts_data, series="Original Data") +
 ### Explanation
 
 - **Sample Data**: We generate a time series with a sine wave pattern and some noise using `sin()` and `rnorm()` in R.
-- **Simple Exponential Smoothing**: We apply simple exponential smoothing using the `ses()` function from the `forecast` package, specifying a smoothing parameter (\(\alpha\)) of 0.2.
+- **Simple Exponential Smoothing**: We apply simple exponential smoothing using the `ses()` function from the `forecast` package, specifying a smoothing parameter ($\alpha$) of 0.2.
 - **Plotting**: The original data and the smoothed series are plotted using `ggplot2` and `autoplot()`.
 
 ## Interpretation of Simple Exponential Smoothing
 
 ### Smoothing Parameter ($\alpha$)
 
-- **Sensitivity**: The choice of $\alpha$ affects the sensitivity of the smoothed series to changes in the data. A higher $\alpha$ makes the model more responsive to recent changes, while a lower \(\alpha\) produces a smoother series that is less responsive to recent changes.
-- **Trade-off**: Selecting the right $\alpha$ depends on the specific characteristics of the time series. For stable series, a lower $\alpha$ may be preferable, while for more volatile series, a higher \(\alpha\) may capture changes better.
+- **Sensitivity**: The choice of $\alpha$ affects the sensitivity of the smoothed series to changes in the data. A higher $\alpha$ makes the model more responsive to recent changes, while a lower $\alpha$ produces a smoother series that is less responsive to recent changes.
+- **Trade-off**: Selecting the right $\alpha$ depends on the specific characteristics of the time series. For stable series, a lower $\alpha$ may be preferable, while for more volatile series, a higher $\alpha$ may capture changes better.
 
 ## Holt’s Linear Trend Method
 

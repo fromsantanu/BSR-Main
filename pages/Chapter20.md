@@ -5,23 +5,23 @@
 Pearson correlation is a statistical measure that quantifies the linear relationship between two continuous variables. It is a widely used method to assess the strength and direction of the linear association between two variables. The Pearson correlation coefficient, denoted as \( r \), ranges from -1 to 1, where:
 
 - $r = 1$ indicates a perfect positive linear relationship.
-- \( r = -1 \) indicates a perfect negative linear relationship.
-- \( r = 0 \) indicates no linear relationship.
+- $r = -1$ indicates a perfect negative linear relationship.
+- $r = 0$ indicates no linear relationship.
 
 ## Key Concepts
 
 1. **Pearson Correlation Coefficient (\( r \))**: The formula for calculating the Pearson correlation coefficient between two variables \( X \) and \( Y \) is:
-   \[
-   r = \frac{\sum{(X_i - \bar{X})(Y_i - \bar{Y})}}{\sqrt{\sum{(X_i - \bar{X})^2} \sum{(Y_i - \bar{Y})^2}}}
+   
+   $r = \frac{\sum{(X_i - \bar{X})(Y_i - \bar{Y})}}{\sqrt{\sum{(X_i - \bar{X})^2} \sum{(Y_i - \bar{Y})^2}}}$
    \]
    where:
-   - \( X_i \) and \( Y_i \) are the individual data points,
-   - \( \bar{X} \) and \( \bar{Y} \) are the means of the \( X \) and \( Y \) variables.
+   - $X_i$ and $Y_i$ are the individual data points,
+   - $\bar{X}$ and $\bar{Y}$ are the means of the $X$ and $Y$ variables.
 
 2. **Interpretation**:
-   - **Positive Correlation**: As \( X \) increases, \( Y \) tends to increase.
-   - **Negative Correlation**: As \( X \) increases, \( Y \) tends to decrease.
-   - **No Correlation**: There is no apparent relationship between \( X \) and \( Y \).
+   - **Positive Correlation**: As $X$ increases, $Y$ tends to increase.
+   - **Negative Correlation**: As $X$ increases, $Y$ tends to decrease.
+   - **No Correlation**: There is no apparent relationship between $X$ and $Y$.
 
 3. **Assumptions**:
    - **Linearity**: The relationship between the variables is linear.
@@ -109,15 +109,15 @@ abline(lm(Test_Score ~ Hours_Studied), col="red", lwd=2)
 
 ### Pearson Correlation Coefficient (\( r \))
 
-- **\( r > 0 \)**: Indicates a positive linear relationship between the variables. As one variable increases, the other tends to increase.
-- **\( r < 0 \)**: Indicates a negative linear relationship between the variables. As one variable increases, the other tends to decrease.
-- **\( r = 0 \)**: Indicates no linear relationship between the variables.
+- **$r > 0$**: Indicates a positive linear relationship between the variables. As one variable increases, the other tends to increase.
+- **$r < 0$**: Indicates a negative linear relationship between the variables. As one variable increases, the other tends to decrease.
+- **$r = 0$**: Indicates no linear relationship between the variables.
 
 ### P-value
 
 The p-value indicates the significance of the correlation:
-- **Low p-value (\( p \leq \alpha \))**: Suggests that the observed correlation is statistically significant (commonly, \( \alpha = 0.05 \)).
-- **High p-value (\( p > \alpha \))**: Suggests that the observed correlation is not statistically significant.
+- **Low p-value ($p \leq \alpha$)**: Suggests that the observed correlation is statistically significant (commonly, \( \alpha = 0.05 \)).
+- **High p-value ($p > \alpha$)**: Suggests that the observed correlation is not statistically significant.
 
 ### Scatter Plot with Regression Line
 

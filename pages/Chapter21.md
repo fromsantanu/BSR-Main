@@ -106,7 +106,7 @@ lines(sort(Hours_Studied), predict(model, newdata=data.frame(Hours_Studied=sort(
 
 ## Interpretation of Results
 
-### Spearman Rank Correlation Coefficient (\( \rho \))
+### Spearman Rank Correlation Coefficient ($\rho$)
 
 - **$\rho > 0$**: Indicates a positive monotonic relationship between the variables. As one variable increases, the other tends to increase.
 - **$\rho < 0$**: Indicates a negative monotonic relationship between the variables. As one variable increases, the other tends to decrease.
@@ -115,7 +115,7 @@ lines(sort(Hours_Studied), predict(model, newdata=data.frame(Hours_Studied=sort(
 ### P-value
 
 The p-value indicates the significance of the correlation:
-- **Low p-value ($p \leq \alpha$)**: Suggests that the observed correlation is statistically significant (commonly, \( \alpha = 0.05 \)).
+- **Low p-value ($p \leq \alpha$)**: Suggests that the observed correlation is statistically significant (commonly, $\alpha = 0.05$).
 - **High p-value ($p > \alpha$)**: Suggests that the observed correlation is not statistically significant.
 
 ### Visualization

@@ -11,7 +11,7 @@ Spearman rank correlation is a non-parametric measure of the strength and direct
    $\rho = 1 - \frac{6 \sum d_i^2}{n(n^2 - 1)}$
    
    where:
-   - $d_i$ is the difference between the ranks of corresponding values of \( X \) and \( Y \),
+   - $d_i$ is the difference between the ranks of corresponding values of $X$ and $Y$,
    - $n$ is the number of observations.
 
 2. **Monotonic Relationship**: Spearman rank correlation assesses whether the relationship between two variables is monotonic, meaning that as one variable increases, the other either consistently increases or decreases, but not necessarily at a constant rate.

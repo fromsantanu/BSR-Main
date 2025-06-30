@@ -1,4 +1,4 @@
-# Statistical Concepts and Techniques 
+# Statistical Concepts and Techniques for Research Analysts
 ## 1. Descriptive Statistics
 - [**Measures of Central Tendency (Mean, Median and Mode)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter01.md)
 - [**Measures of Variability (Range, Variance, Standard Deviation)**](https://github.com/fromsantanu/BSR-Main/blob/main/pages/Chapter02.md)  
